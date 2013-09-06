@@ -1,5 +1,5 @@
 -module('problem_3').
--export([start/1]).
+-export([start/1, get_primes/1]).
 
 % The prime factors of 13195 are 5, 7, 13 and 29.
 
